@@ -1,0 +1,30 @@
+/* MyComponent.css */
+
+/* Stilizacija zvezdica */
+.star-ratings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Postavlja visinu kontejnera na visinu ekrana */
+}
+
+.star-svg .star {
+  fill: #cbd3e3; /* Boja praznih zvezdica */
+  transition: fill 0.3s; /* Dodajemo efekat prelaza */
+}
+
+.star-svg:hover .star {
+  fill: #ff9900; /* Boja zvezdica pri hover-u */
+}
+
+@media (max-width: 640px) {
+  .responsive-font {
+    font-size: 9px !important;
+  }
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
