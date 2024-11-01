@@ -1,8 +1,34 @@
-# React + Vite
+# Public Administration Data Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="justify">
+This project was developed during an internship for the National Academy for Public Administration. Hosted at [https://akademija.info/sprovodjenje-obuka/](https://akademija.info/sprovodjenje-obuka/), the application provides insights into the training programs organized by the Academy, which is dedicated to enhancing the competencies of public administration employees. This dashboard supports transparency and data accessibility, offering stakeholders a comprehensive view of training-related metrics.
+</p>
 
-Currently, two official plugins are available:
+## Technologies and Libraries
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Frontend Framework**: React
+- **Bundler**: Vite
+- **CSS**: TailwindCSS, styled-components
+- **UI Components**: Material-UI, Flowbite React
+- **Icons**: Font Awesome, React Icons
+- **Charts**: react-google-charts
+
+## Running the Project Locally
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/brankovicnatalija01/National-Academy-In-Numbers.git
+   
+2. Go to the project directory:
+   ```bash
+   cd National-Academy-In-Numbers
+
+3. Install dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+    ```bash
+   npm run dev
