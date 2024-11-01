@@ -1,8 +1,10 @@
 # Public Administration Data Analytics Dashboard
 
 <p align="justify">
-This project was developed during an internship for the National Academy for Public Administration. Hosted at [https://akademija.info/sprovodjenje-obuka/](https://akademija.info/sprovodjenje-obuka/), the application provides insights into the training programs organized by the Academy, which is dedicated to enhancing the competencies of public administration employees. This dashboard supports transparency and data accessibility, offering stakeholders a comprehensive view of training-related metrics.
+This project was developed during an internship for the National Academy for Public Administration. Hosted at https://akademija.info/sprovodjenje-obuka/, the application provides insights into the training programs organized by the Academy, which is dedicated to enhancing the competencies of public administration employees. This dashboard supports transparency and data accessibility, offering stakeholders a comprehensive view of training-related metrics.
 </p>
+
+![mockup](https://github.com/user-attachments/assets/1f05e680-b421-444d-86a9-d12dd0ef9247)
 
 ## Technologies and Libraries
 
